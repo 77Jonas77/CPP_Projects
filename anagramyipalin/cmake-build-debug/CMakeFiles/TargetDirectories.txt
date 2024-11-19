@@ -1,0 +1,3 @@
+/Users/jonaszsojka/CLionProjects/anagramyipalin/cmake-build-debug/CMakeFiles/anagramyipalin.dir
+/Users/jonaszsojka/CLionProjects/anagramyipalin/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonaszsojka/CLionProjects/anagramyipalin/cmake-build-debug/CMakeFiles/rebuild_cache.dir

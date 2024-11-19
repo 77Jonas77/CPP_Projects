@@ -1,0 +1,13 @@
+# ninja log v5
+8	2636	1685639742096690502	CMakeFiles/Projekt_c__.dir/PasswordManager.cpp.o	84b248e362a2fb56
+8	456	1685396145686144563	CMakeFiles/Projekt_c__.dir/CommunicationPanel.cpp.o	cf8a4dcfabfbd9b0
+9	2519	1685639741979938186	CMakeFiles/Projekt_c__.dir/PasswordManagerProgram.cpp.o	d879b1655eb84d0c
+456	907	1685396146138701553	CMakeFiles/Projekt_c__.dir/UsefulMethods.cpp.o	e8aecb274fe8c070
+8	616	1685582973456647499	CMakeFiles/Projekt_c__.dir/CryptingManager.cpp.o	c10616e9c1401101
+0	60	1707142459424404607	build.ninja	22cac3c1e768bec7
+23	514	1685455471105513631	CMakeFiles/Projekt_c__.dir/SafetyChecker.cpp.o	1ae99f9ad40e1a5d
+7	2491	1685639741951338543	CMakeFiles/Projekt_c__.dir/main.cpp.o	d49689afe94e12be
+6	579	1685400444373779268	CMakeFiles/Projekt_c__.dir/Password.cpp.o	76d0c20b72b3d272
+7	391	1685396145622008388	CMakeFiles/Projekt_c__.dir/CommunicationInterface.cpp.o	e11d13211ce9759
+9	2630	1685639742091249718	CMakeFiles/Projekt_c__.dir/FileManager.cpp.o	21801eb0852be984
+2636	2844	1685639742310109113	Projekt_c__	4d7e11505b04dfb2

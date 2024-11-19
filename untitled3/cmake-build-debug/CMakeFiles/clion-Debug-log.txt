@@ -1,0 +1,11 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -G Ninja -S /Users/jonaszsojka/CLionProjects/untitled3 -B /Users/jonaszsojka/CLionProjects/untitled3/cmake-build-debug
+-- Module support is disabled.
+-- Version: 9.1.0
+-- Build type: Debug
+-- CXX_STANDARD: 23
+-- Required features: cxx_variadic_templates
+-- Performing Test HAS_NULLPTR_WARNING
+-- Performing Test HAS_NULLPTR_WARNING - Success
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/jonaszsojka/CLionProjects/untitled3/cmake-build-debug

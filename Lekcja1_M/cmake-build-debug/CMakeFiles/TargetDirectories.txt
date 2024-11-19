@@ -1,0 +1,3 @@
+/Users/jonaszsojka/CLionProjects/Lekcja1_M/cmake-build-debug/CMakeFiles/Lekcja1_M.dir
+/Users/jonaszsojka/CLionProjects/Lekcja1_M/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonaszsojka/CLionProjects/Lekcja1_M/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,24 @@
+# ninja log v5
+7	581	1685584572426681597	CMakeFiles/Projekt_c__.dir/PasswordManager.cpp.o	84b248e362a2fb56
+8	456	1685396145686144563	CMakeFiles/Projekt_c__.dir/CommunicationPanel.cpp.o	cf8a4dcfabfbd9b0
+8	848	1685493194844820052	CMakeFiles/Projekt_c__.dir/PasswordManagerProgram.cpp.o	d879b1655eb84d0c
+456	907	1685396146138701553	CMakeFiles/Projekt_c__.dir/UsefulMethods.cpp.o	e8aecb274fe8c070
+8	616	1685582973456647499	CMakeFiles/Projekt_c__.dir/CryptingManager.cpp.o	c10616e9c1401101
+0	60	1685639953317908846	build.ninja	22cac3c1e768bec7
+23	514	1685455471105513631	CMakeFiles/Projekt_c__.dir/SafetyChecker.cpp.o	1ae99f9ad40e1a5d
+11	794	1685584453718893643	CMakeFiles/Projekt_c__.dir/main.cpp.o	d49689afe94e12be
+6	579	1685400444373779268	CMakeFiles/Projekt_c__.dir/Password.cpp.o	76d0c20b72b3d272
+7	391	1685396145622008388	CMakeFiles/Projekt_c__.dir/CommunicationInterface.cpp.o	e11d13211ce9759
+7	961	1685495439797909471	CMakeFiles/Projekt_c__.dir/FileManager.cpp.o	21801eb0852be984
+581	620	1685584572468192207	Projekt_c__	4d7e11505b04dfb2
+10	608	1685639955734390577	CMakeFiles/Projekt_c__.dir/CryptingManager.cpp.o	176b36778d0cb182
+8	655	1685639955777707878	CMakeFiles/Projekt_c__.dir/CommunicationInterface.cpp.o	6ecdf8ed940eaf7c
+9	700	1685639955828392688	CMakeFiles/Projekt_c__.dir/CommunicationPanel.cpp.o	6b1f9795aa1e56b8
+7	808	1685639955937338400	CMakeFiles/Projekt_c__.dir/main.cpp.o	94c10d22a426a87
+8	1073	1685639956201973255	CMakeFiles/Projekt_c__.dir/PasswordManager.cpp.o	9fec27f083d93841
+10	1094	1685639956223867114	CMakeFiles/Projekt_c__.dir/FileManager.cpp.o	a9fdcb36960ecbb1
+702	1235	1685639956360439734	CMakeFiles/Projekt_c__.dir/Password.cpp.o	845d7bc2bb90abef
+608	1258	1685639956388189933	CMakeFiles/Projekt_c__.dir/SafetyChecker.cpp.o	d1c6b00445f9a367
+656	1278	1685639956408494457	CMakeFiles/Projekt_c__.dir/UsefulMethods.cpp.o	15fd2d31d3de7a4c
+808	1361	1685639956491737264	CMakeFiles/Projekt_c__.dir/PasswordManagerProgram.cpp.o	d2ece80e5632d657
+1361	1401	1685639956534903815	Projekt_c__	4d7e11505b04dfb2

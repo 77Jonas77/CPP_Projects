@@ -1,0 +1,6 @@
+0 1 2 3 4 5  //wprowadzamy 3
+0 0 0 0 0 0
+
+              //indeks 0 -> ocena 1 / indeks 1 -> ocena 2
+0 1 2 3 4 5  //po wprowadzeniu 3
+0 0 1 0 0 0

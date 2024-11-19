@@ -1,0 +1,6 @@
+/Users/jonaszsojka/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/nazwa.dir
+/Users/jonaszsojka/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonaszsojka/CLionProjects/untitled3/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jonaszsojka/CLionProjects/untitled3/cmake-build-debug/_deps/fmt-build/CMakeFiles/fmt.dir
+/Users/jonaszsojka/CLionProjects/untitled3/cmake-build-debug/_deps/fmt-build/CMakeFiles/edit_cache.dir
+/Users/jonaszsojka/CLionProjects/untitled3/cmake-build-debug/_deps/fmt-build/CMakeFiles/rebuild_cache.dir

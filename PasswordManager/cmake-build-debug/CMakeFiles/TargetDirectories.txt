@@ -1,0 +1,3 @@
+/Users/jonaszsojka/CLionProjects/PasswordManager/cmake-build-debug/CMakeFiles/PasswordManager.dir
+/Users/jonaszsojka/CLionProjects/PasswordManager/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonaszsojka/CLionProjects/PasswordManager/cmake-build-debug/CMakeFiles/rebuild_cache.dir

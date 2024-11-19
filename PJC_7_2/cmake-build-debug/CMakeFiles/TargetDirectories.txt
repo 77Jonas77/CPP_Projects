@@ -1,0 +1,3 @@
+/Users/jonaszsojka/CLionProjects/PJC_7_2/cmake-build-debug/CMakeFiles/PJC_7_2.dir
+/Users/jonaszsojka/CLionProjects/PJC_7_2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jonaszsojka/CLionProjects/PJC_7_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
